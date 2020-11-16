@@ -1,0 +1,12 @@
+{
+  "token": {
+    "email": "vinod91@yopmail.com",
+    "password": "viNODH12$",
+    "totp": "string"
+  },
+  "centralServerHash": "yMK2EQnhjch+s8SXcKLlU42dtlYFFhJa0w6mG6OvIGE=",
+  "bkvs": "http://47.254.241.229:8080",
+  "centralServer": "http://localhost",
+  "superdapp": "d8cc23c1e9ae06e7f738a864cfd66c0b7a65bf6cf852f888535876285c5a84eb",
+  "defaultFee": "0"
+}
